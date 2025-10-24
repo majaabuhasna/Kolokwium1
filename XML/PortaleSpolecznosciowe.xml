@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<media>
+  <heading>Types of media</heading>
+   
+ <Facebook>
+    <datapowstania>4 lutego 2004</datapowstania>
+    <uzytkownicy>3 miliardy</uzytkownicy>
+    <autor>Mark Zuckerberg</autor>
+    <firma>Meta Platforms</firma>
+ </Facebook>
+
+ <Instagram>
+  <datapowstania>6 października 2010</datapowstania>
+  <uzytkownicy>3 miliardy</uzytkownicy>
+  <autor>Kevin Systrom</autor>
+  <firma>Meta Platforms</firma>
+ </Instagram>
+
+ <TikTok>
+  <datapowstania>20 września 2016</datapowstania>
+  <uzytkownicy>2 miliardy</uzytkownicy>
+  <autor>ByteDance</autor>
+  <firma>ByteDance</firma>
+ </TikTok>
+
+ <Twitter>
+  <datapowstania>21 marca 2006</datapowstania>
+  <uzytkownicy>611 milionów</uzytkownicy>
+  <autor>Jack Dorsey</autor>
+  <firma>X Corp</firma>
+ </Twitter>
+
+ <Snapchat>
+  <datapowstania>Wrzesień 2011</datapowstania>
+  <uzytkownicy>800 milionów</uzytkownicy>
+  <autor>Evan Spiegel</autor>
+  <firma>Snap Inc.</firma>
+ </Snapchat>
+
+ <Linkedln>
+  <datapowstania>5 maja 2003</datapowstania>
+  <uzytkownicy>722 miliony</uzytkownicy>
+  <autor>Reid Hoffman</autor>
+  <firma>Microsoft</firma>
+ </Linkedln>
+</media>
