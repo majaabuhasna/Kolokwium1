@@ -1,0 +1,18 @@
+[
+    {
+            "nazwa": "Facebook",
+            "rok_zalozenia": 2004,
+            "liczba_uzytkownikow_miliardy": 2.89,
+            "czy_facebook_dziala_w_chinach": false,
+            "typ_platformy": "media społecznościowe",
+            "fundatorzy": [
+                "Mark Zuckerberg",
+                "Eduardo Saverin",
+                "Andrew McCollum",
+                "Dustin Moskovitz",
+                "Chris Hughes"
+            ],
+            "maksymalna_liczba_znajomych": 5000,
+            "rok_powstania_wersji_mobile": 2007
+    }
+]
