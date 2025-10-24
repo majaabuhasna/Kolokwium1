@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<media>
+  <heading>Types of media</heading>
+   
+ <Facebook>
+    <datapowstania rodzaj="liczba" kiedy="dawno">4 lutego 2004</datapowstania>
+    <uzytkownicy rodzaj="liczba" ilość="dużo">3 miliardy</uzytkownicy>
+    <autor polak="nie" rodzaj="imie i nazwisko">Mark Zuckerberg</autor>
+    <firma rodzaj="nazwa" Polska="nie">Meta Platforms</firma>
+ </Facebook>
+
+ <Instagram>
+  <datapowstania rodzaj="liczba" kiedy="dawno">6 października 2010</datapowstania>
+  <uzytkownicy rodzaj="liczba" ilość="dużo">3 miliardy</uzytkownicy>
+  <autor polak="nie" rodzaj="imie i nazwisko">Kevin Systrom</autor>
+  <firma rodzaj="nazwa" Polska="nie">Meta Platforms</firma>
+ </Instagram>
+
+ <TikTok>
+  <datapowstania rodzaj="liczba" kiedy="nie dawno">20 września 2016</datapowstania>
+  <uzytkownicy rodzaj="liczba" ilość="dużo">2 miliardy</uzytkownicy>
+  <autor polak="nie" rodzaj="imie i nazwisko">ByteDance</autor>
+  <firma> rodzaj="nazwa" Polska="nie"ByteDance</firma>
+ </TikTok>
+
+ <Twitter>
+  <datapowstania rodzaj="liczba" kiedy="dawno">21 marca 2006</datapowstania>
+  <uzytkownicy rodzaj="liczba" ilość="nie dużo">611 milionów</uzytkownicy>
+  <autor polak="nie" rodzaj="imie i nazwisko">Jack Dorsey</autor>
+  <firma rodzaj="nazwa" Polska="nie">X Corp</firma>
+ </Twitter>
+
+ <Snapchat>
+  <datapowstania rodzaj="liczba" kiedy="nie dawno">Wrzesień 2011</datapowstania>
+  <uzytkownicy rodzaj="liczba" ilość="nie dużo">800 milionów</uzytkownicy>
+  <autor polak="nie" rodzaj="imie i nazwisko">Evan Spiegel</autor>
+  <firma rodzaj="nazwa" Polska="nie">Snap Inc.</firma>
+ </Snapchat>
+
+ <Linkedln>
+  <datapowstania rodzaj="liczba" kiedy="dawno">5 maja 2003</datapowstania>
+  <uzytkownicy rodzaj="liczba" ilość="nie dużo">722 miliony</uzytkownicy>
+  <autor polak="nie" rodzaj="imie i nazwisko">Reid Hoffman</autor>
+  <firma rodzaj="nazwa" Polska="nie">Microsoft</firma>
+ </Linkedln>
+</media>
