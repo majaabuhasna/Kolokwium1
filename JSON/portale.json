@@ -1,0 +1,44 @@
+{
+    "Facebook": {
+        "rok_zalozenia": 2004,
+        "liczba_aktywnych_uzytkownikow_miliardy": 2.89,
+        "czy_facebook_dziala_w_chinach": false,
+        "typ_platformy": "media społecznościowe",
+        "rok_powstania_wersji_mobile": 2007
+    },
+    "Twitter": {
+        "rok_zalozenia": 2006,
+        "liczba_aktywnych_uzytkownikow_miliardy": 0.4,
+        "czy_twitter_dziala_w_chinach": false,
+        "typ_platformy": "mikroblogging",
+        "rok_powstania_wersji_mobile": 2010
+    },
+    "Instagram": {
+        "rok_zalozenia": 2010,
+        "liczba_aktywnych_uzytkownikow_miliardy": 1.36,
+        "czy_instagram_dziala_w_chinach": false,
+        "typ_platformy": "media społecznościowe",
+        "rok_powstania_wersji_mobile": 2010
+    },
+    "LinkedIn": {
+        "rok_zalozenia": 2002,
+        "liczba_aktywnych_uzytkownikow_miliardy": 0.75,
+        "czy_linkedin_dziala_w_chinach": true,
+        "typ_platformy": "sieć zawodowa",
+        "rok_powstania_wersji_mobile": 2008
+    },
+    "TikTok": {
+        "rok_zalozenia": 2016,
+        "liczba_aktywnych_uzytkownikow_miliardy": 1.0,
+        "czy_tiktok_dziala_w_chinach": true,
+        "typ_platformy": "media społecznościowe",
+        "rok_powstania_wersji_mobile": 2016
+    },
+    "Snapchat": {
+        "rok_zalozenia": 2011,
+        "liczba_aktywnych_uzytkownikow_miliardy": 0.5,
+        "czy_snapchat_dziala_w_chinach": false,
+        "typ_platformy": "media społecznościowe",
+        "rok_powstania_wersji_mobile": 2011
+    }
+}
