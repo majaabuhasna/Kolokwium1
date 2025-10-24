@@ -27,4 +27,4 @@ Na internecie istnieje wiele różnych portali społecznościowych. Poniższa ta
 ## OBRAZY
 ![Snapchat](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/26/d7/1b26d773-d3a9-1d2d-da5e-eac6b136ab4c/AppleWatch_Splash.png/300x0w.jpg)
 ![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)
-![Facebook](Facebook.png)
+![Facebook](IMG/Facebook.png)
